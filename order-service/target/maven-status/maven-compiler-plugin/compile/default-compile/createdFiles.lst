@@ -1,0 +1,8 @@
+com\glo\orderservice\model\Order.class
+com\glo\orderservice\dto\OrderLineItemsDto.class
+com\glo\orderservice\controller\OrderController.class
+com\glo\orderservice\OrderServiceApplication.class
+com\glo\orderservice\service\OrderService.class
+com\glo\orderservice\dto\OrderRequest.class
+com\glo\orderservice\repository\OrderRepository.class
+com\glo\orderservice\model\OrderLineItems.class
